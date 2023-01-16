@@ -333,11 +333,8 @@ SECCIÓN 12–8 Circuitos de capacitor conmutado
 
 ![image](https://user-images.githubusercontent.com/116772752/211696659-2051e951-7aad-4e11-9ba3-adac12e5105e.png)
 
-5.-Video
 
-SGVJFDAGHSKGRJ
-
-6.- CONCLUSIÓNES • Los conceptos leídos en el capítulo 11 y 12 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el cómo aprender a calcular. • Después de la lectura de los capítulos 11 y 12 del libro de Floyd, se utilizó mentefactos y mapas conceptuales para resumir estos temas, ya que ayudan a ubicar la información de un manera mucho más factible y fácil de entender y así evitando el uso de párrafos grandes que complican el entendimiento del tema. • Haciendo uso de los conceptos de análisis a la corriente alterna, a voltaje alterno y capacitores, se fue resolviendo de manera correcta los problemas planteados en los capítulos 11 y 12 de Floyd ya que los ejercicios son complicados y se tiene que aplicar temas vistos anteriores como ley de Ohm, y la aplicación de cada formula debe ser la correcta ya que en capacitores, capacitores en serie se realiza de forma parecida a como se realizaba en circuito paralelo y capacitores en paralelo se suman como en un circuito serie, pero no son iguales por lo que ahí que manejar bien cada concepto.
+5.- CONCLUSIÓNES • Los conceptos leídos en el capítulo 11 y 12 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el cómo aprender a calcular. • Después de la lectura de los capítulos 11 y 12 del libro de Floyd, se utilizó mentefactos y mapas conceptuales para resumir estos temas, ya que ayudan a ubicar la información de un manera mucho más factible y fácil de entender y así evitando el uso de párrafos grandes que complican el entendimiento del tema. • Haciendo uso de los conceptos de análisis a la corriente alterna, a voltaje alterno y capacitores, se fue resolviendo de manera correcta los problemas planteados en los capítulos 11 y 12 de Floyd ya que los ejercicios son complicados y se tiene que aplicar temas vistos anteriores como ley de Ohm, y la aplicación de cada formula debe ser la correcta ya que en capacitores, capacitores en serie se realiza de forma parecida a como se realizaba en circuito paralelo y capacitores en paralelo se suman como en un circuito serie, pero no son iguales por lo que ahí que manejar bien cada concepto.
 
 7.- BLIBIOGRAFÍA Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
 
